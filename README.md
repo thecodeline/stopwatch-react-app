@@ -1,1 +1,1 @@
-# Simple React StopWatch App
+# Simple React Stopwatch App
